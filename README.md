@@ -1,0 +1,2 @@
+# Jugal
+AI traning
